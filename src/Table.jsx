@@ -8,17 +8,19 @@ const Table = ({ data }) => {
       <table>
         <tbody>
           <tr>
-            <th>Image</th>
+            {/* <th>Image</th>
             <th>Name</th>
             <th>Surname</th>
-            <th>Email</th>
+            <th>Email</th> */}
           </tr>
           {data.map((item) => (
             <tr key={item.id}>
-            <td><img src={item.imageSrc} alt="User" /></td>
-              <td>{item.first_name}</td>
-              <td>{item.last_name}</td>
+            <td><img src={item.imageSrc} alt={`${item.first_name}`} /></td>
+              {/* <td>{item.first_name}</td> */}
+              {/* <td>{item.last_name}</td> */}
+              <td><img src={item.blueprint} alt={`${item.blueprint}`} /></td>
               <td>{item.email}</td>
+              
             </tr>
           ))}
         </tbody>

@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/balatro/static/css/main.a31a1838.css",
-    "main.js": "/balatro/static/js/main.bdfa1a59.js",
-    "static/js/453.ed3810f9.chunk.js": "/balatro/static/js/453.ed3810f9.chunk.js",
-    "static/media/logo.svg": "/balatro/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/balatro/index.html",
-    "main.a31a1838.css.map": "/balatro/static/css/main.a31a1838.css.map",
-    "main.bdfa1a59.js.map": "/balatro/static/js/main.bdfa1a59.js.map",
-    "453.ed3810f9.chunk.js.map": "/balatro/static/js/453.ed3810f9.chunk.js.map"
+    "main.css": "/shdc/static/css/main.a31a1838.css",
+    "main.js": "/shdc/static/js/main.f93bed63.js",
+    "static/js/453.ed3810f9.chunk.js": "/shdc/static/js/453.ed3810f9.chunk.js",
+    "static/media/logo.svg": "/shdc/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/shdc/index.html",
+    "main.a31a1838.css.map": "/shdc/static/css/main.a31a1838.css.map",
+    "main.f93bed63.js.map": "/shdc/static/js/main.f93bed63.js.map",
+    "453.ed3810f9.chunk.js.map": "/shdc/static/js/453.ed3810f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a31a1838.css",
-    "static/js/main.bdfa1a59.js"
+    "static/js/main.f93bed63.js"
   ]
 }
