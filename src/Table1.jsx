@@ -18,7 +18,7 @@ const Table1 = ({ data }) => {
             <td><img src={item.imageSrc} alt={`${item.first_name}`} /></td>
               {/* <td>{item.first_name}</td> */}
               {/* <td>{item.last_name}</td> */}
-              <td><img src={item.blueprint} alt={`${item.blueprint}`} /></td>
+              {item.blueprint && <td><img src={item.blueprint} alt={`${item.blueprint}`} /></td>}
               <td>{item.email}</td>
               
             </tr>

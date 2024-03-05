@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/shdc/static/css/main.a31a1838.css",
-    "main.js": "/shdc/static/js/main.5c150c5d.js",
+    "main.js": "/shdc/static/js/main.58613785.js",
     "static/js/453.ed3810f9.chunk.js": "/shdc/static/js/453.ed3810f9.chunk.js",
     "static/media/Brainstorm.webp": "/shdc/static/media/Brainstorm.799dd6ab5ef0da8ea532.webp",
     "static/media/Blueprint.webp": "/shdc/static/media/Blueprint.35799b70dc2b5423c494.webp",
@@ -37,11 +37,11 @@
     "static/media/Mime.webp": "/shdc/static/media/Mime.d41c705cf4fb734c4523.webp",
     "static/media/Joker_Stencil.webp": "/shdc/static/media/Joker_Stencil.e39b4c54ab5860a2d0d3.webp",
     "main.a31a1838.css.map": "/shdc/static/css/main.a31a1838.css.map",
-    "main.5c150c5d.js.map": "/shdc/static/js/main.5c150c5d.js.map",
+    "main.58613785.js.map": "/shdc/static/js/main.58613785.js.map",
     "453.ed3810f9.chunk.js.map": "/shdc/static/js/453.ed3810f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a31a1838.css",
-    "static/js/main.5c150c5d.js"
+    "static/js/main.58613785.js"
   ]
 }

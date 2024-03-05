@@ -24,10 +24,10 @@ function App() {
         className="search"
         onChange={e=> setQuery(e.target.value)}
         />
-      <img src={image22} className="App-logo" alt="logo" />
+      {/* <img src={image22} className="App-logo" alt="logo" /> */}
       <div style={{ display: 'flex' }}>
-      <Table1 data={search(Users)} />
       <Table2 data={search(Users)} />
+      {/* <Table1 data={search(Users)} /> */}
       </div>
     </div>
   );
